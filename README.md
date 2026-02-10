@@ -1,16 +1,13 @@
-## Hi there 👋
+![Editors psyco](https://github.com/reneget/reneget/blob/main/assets/code-ditors.mp4)
 
-<!--
-**reneget/reneget** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+   <h1>Some statistics</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reneget&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=reneget&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=reneget&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=reneget&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=reneget&theme=default&utcOffset=8)
+
+</div>
