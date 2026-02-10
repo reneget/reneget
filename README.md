@@ -1,4 +1,6 @@
-![Editors psyco](https://github.com/reneget/reneget/blob/main/assets/gosling-sad-gosling.gif)
+<div align="center">
+  <img src="https://github.com/reneget/reneget/blob/main/assets/gosling-sad-gosling.gif" alt="Bladerunner">
+</div>
 
 <div align="center">
    <h1>Some statistics</h1>
