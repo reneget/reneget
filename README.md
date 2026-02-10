@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/reneget/reneget/blob/main/assets/gosling-sad-gosling.gif" alt="Bladerunner">
+  <img src="https://github.com/reneget/reneget/blob/main/assets/gosling-sad-gosling.gif" alt="Bladerunner" style="width:100%; max-width:100%; height:auto;">
 </div>
 
 <div align="center">
