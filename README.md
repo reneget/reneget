@@ -1,4 +1,4 @@
-![Editors psyco](https://github.com/reneget/reneget/blob/main/assets/code-ditors.mp4)
+![Editors psyco](https://github.com/reneget/reneget/blob/main/assets/gosling-sad-gosling.gif)
 
 <div align="center">
    <h1>Some statistics</h1>
