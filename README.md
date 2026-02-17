@@ -2,11 +2,11 @@
 
 ### Python developer
 
-- 🔭 I'm currently working on **a some pet projects**
+- 🔭 I'm currently working on **a decentralized messenger**
 
-- 🌱 I'm currently learning **Deploy stuff (Kubernetic, Grafana, Prometheus, etc)**
+- 🌱 I'm currently learning **deep network programming (writing protocols, network paths, and other stuff)**
 
-- 👯 I'm looking to collaborate on **any backend-sort projects (simple api`s and http servers)**
+- 👯 I'm looking to collaborate on **any backend-sort projects**
 
 - ⚡ Fun fact **Curently use Debian on my work machine**
 
